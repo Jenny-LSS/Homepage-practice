@@ -1,2 +1,3 @@
 # homepage-practice
-https://happy-bartik-efa684.netlify.app
+
+[DEMO](https://happy-bartik-efa684.netlify.app)
